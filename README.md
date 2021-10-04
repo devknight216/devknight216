@@ -1,6 +1,4 @@
-<p align="center">
-  <img align="center" src="https://github.com/alexandera73/alexandera73/blob/master/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
-</p>
+
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
@@ -50,23 +48,4 @@
    </tr>
 </table>
 
-[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=alexandera73&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=alexandera73&theme=github&count_private=true)
 
-## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
-
-<div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
- 
-### DApps & Online Betting Website
-<br />
-
-### Crypto Trading Platforms & Bots
-<br />
-
-### AR & VR Web and Mobile application
-<br />
-
-### Video Conference Web & Mobile application
-<br />
-
-</div>
