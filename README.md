@@ -8,9 +8,6 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=alexandera73.alexandera73" />
 <img align="right" src="https://img.shields.io/github/followers/alexandera73?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtovmach&layout=compact&theme=merko&count_private=true" />
-<img height="150px" />
-
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table>
   <tr>
