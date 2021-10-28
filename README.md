@@ -46,7 +46,7 @@
 
 <h1 style="font-size:42px" align="center">Contact me</h1>
 
-[![Gmail Badge](https://img.shields.io/badge/-winterprine07@gmail.com-c14438?style=flat-squarel&logo=gmail&logoColor=white&link=mailto:devknight216@gmail.com)](mailto:winterprine07@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-devknight216@gmail.com-c14438?style=flat-squarel&logo=gmail&logoColor=white&link=mailto:devknight216@gmail.com)](mailto:devknight216@gmail.com)
 <img align="right" src="https://komarev.com/ghpvc/?username=devknight216"/>
 
 
