@@ -44,9 +44,5 @@
    </tr>
 </table>
 
-<h1 style="font-size:42px" align="center">Contact me</h1>
-
-
-<img align="right" src="https://komarev.com/ghpvc/?username=devknight216"/>
 
 
